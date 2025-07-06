@@ -73,3 +73,49 @@ Built using **HTML, CSS, JavaScript (Frontend)**, **Node.js + Express.js (Backen
 ```bash
 git clone <repo-url>
 cd Note_Taking_App
+
+2️⃣ Install backend dependencies
+cd server
+npm install
+
+3️⃣ Create .env file inside the server/ folder
+MONGO_URI=mongodb://127.0.0.1:27017/noteapp
+
+4️⃣ Start MongoDB locally
+brew services start mongodb-community
+
+5️⃣ Start backend server
+npx nodemon server.js
+
+6️⃣ Serve frontend files
+--> If you have http-server installed globally:
+cd ../client
+http-server
+
+--> Or use Live Server extension in VS Code to open index.html
+
+7️⃣ Access the App
+	•	Frontend: http://127.0.0.1:8080
+	•	Backend API: http://127.0.0.1:5050/api/notes
+
+
+📬 API Endpoints
+a. Method
+b. Endpoint
+c. Description
+
+a. GET
+b. /api/notes
+c. Get all notes
+
+a. POST
+b. /api/notes
+c. Add a new note
+
+a. PUT
+b. /api/notes/:id
+c. Edit existing note
+
+a. DELETE
+b. /api/notes/:id
+c. Delete a note
