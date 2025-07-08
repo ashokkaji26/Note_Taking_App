@@ -70,7 +70,7 @@ Built using **HTML, CSS, JavaScript (Frontend)**, **Node.js + Express.js (Backen
 ### 📌 Steps to Set Up Locally
 
 1️⃣ **Clone this repository**
-```bash
+--> bash
 git clone <repo-url>
 cd Note_Taking_App
 
@@ -136,7 +136,7 @@ This project is fully containerized using **Docker Compose** for consistent and 
   👉 Download: https://www.docker.com/products/docker-desktop (choose "Mac with Apple chip" for Mac M3)
 
 Check versions:
-```bash
+--> bash
 docker --version
 docker compose version
 
