@@ -70,6 +70,7 @@ Built using **HTML, CSS, JavaScript (Frontend)**, **Node.js + Express.js (Backen
 ### 📌 Steps to Set Up Locally
 
 1️⃣ **Clone this repository**
+
 --> bash
 git clone <repo-url>
 cd Note_Taking_App
