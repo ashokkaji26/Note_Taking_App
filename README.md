@@ -6,7 +6,7 @@ A simple full-stack note-taking web application where users can:
 - Edit existing notes
 - Delete notes
 
-Built using **HTML, CSS, JavaScript (Frontend)**, **Node.js + Express.js (Backend)** and **MongoDB (Database)**.
+Built using **HTML, CSS, JavaScript (Frontend)**, **Node.js + Express.js (Backend)** and **MongoDB (Database)**
 
 ---
 
