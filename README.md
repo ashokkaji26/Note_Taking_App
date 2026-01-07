@@ -2,6 +2,7 @@
 # 📝 Note-Taking Web App (Full-Stack)
 
 A simple full-stack note-taking web application where users can:
+
 - Add new notes
 - Edit existing notes
 - Delete notes
