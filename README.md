@@ -98,6 +98,7 @@ http-server
 --> Or use Live Server extension in VS Code to open index.html
 
 7️⃣ Access the App
+
 	•	Frontend: http://127.0.0.1:8080
 	•	Backend API: http://127.0.0.1:5050/api/notes
 
