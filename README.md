@@ -210,7 +210,7 @@ b. Stop backend container only
 
 ✅ With this, your entire stack (MongoDB + Backend + Frontend) runs in isolated containers!
 
-📌 Notes
+📌 Notes:
 	•	Ensure no local MongoDB or services are already running on ports 27017, 5050, or 8080 before using  Docker Compose.
 	•	You can stop everything cleanly with: "docker compose down"
 
