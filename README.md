@@ -214,5 +214,4 @@ b. Stop backend container only
 	•	Ensure no local MongoDB or services are already running on ports 27017, 5050, or 8080 before using  Docker Compose.
 	•	You can stop everything cleanly with: "docker compose down"
 
-
 ## Built with ❤️ by Ashok Kaji
